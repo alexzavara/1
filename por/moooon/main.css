@@ -408,3 +408,31 @@ hr {
 	position: relative;
 } 
 
+
+/* we do */
+.wedo {
+	display: flex;
+}
+
+.wedo__item {
+	width: 50%;
+}
+
+/* accordion */
+
+.accordion__icon {
+	width: 40px;
+	height: 40px;
+}
+
+.accordion__item {
+	border: 1px solid #e5e5e5;
+}
+
+.accordion__header {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.accordion__content {
+	padding: 15px 20px;
+}
